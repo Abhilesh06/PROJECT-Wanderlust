@@ -62,12 +62,6 @@
 
 -------------------
 
-## 📸 Screenshots
-
-*(You can add screenshots here by uploading images to your repo or using image links)*
-
---------------------
-
 ## 🚀 Getting Started Locally
 
 1. **Clone the repository**  
