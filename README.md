@@ -119,5 +119,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 👋 Contact
 
 Created with ❤️ by **Abhilesh Singh Lodhi**  
-📫 [LinkedIn]-(https://www.linkedin.com/in/abhilesh-singh-lodhi-165ba4327/) | 📧 abhileshsinghlodhicse@gmail.com
+📫 [LinkedIn] : (https://www.linkedin.com/in/abhilesh-singh-lodhi-165ba4327/) | 📧 : abhileshsinghlodhicse@gmail.com
 
